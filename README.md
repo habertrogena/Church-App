@@ -1,4 +1,4 @@
-# rentals_app
+# Church_app
 
 A new Flutter project.
 
